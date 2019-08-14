@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\gametime\bin\Debug\gametime.exe.config
+C:\Users\Acer\Desktop\gametime\bin\Debug\gametime.exe
+C:\Users\Acer\Desktop\gametime\bin\Debug\gametime.pdb
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.Form1.resources
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.Properties.Resources.resources
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.exe
+C:\Users\Acer\Desktop\gametime\obj\Debug\gametime.pdb
